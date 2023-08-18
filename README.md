@@ -1,5 +1,8 @@
-### Hi there 👋
-
+# Hi
+## Bem vindo ao meu perfil GitHub 👋
+<h4 align="center"> 
+    :construction:  Projeto em construção  :construction:
+</h4>
 <!--
 **kauetc/kauetc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
